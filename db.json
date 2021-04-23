@@ -1,0 +1,84 @@
+{
+  "products": [
+      {
+      "appid": "70",
+      "name": "Half-Life",
+      "description": "Named Game of the Year by over 50 publications, Valve's debut title blends action and adventure with award-winning technology to create a frighteningly realistic world where players must think to survive. Also includes an exciting multiplayer mode that allows you to play against friends and enemies around the world.",
+      "publishers": "Valve",
+      "price": "8.19",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/70/header.jpg?t=1591048039"
+      },
+      {
+      "appid": "220",
+      "name": "Half-Life 2",
+      "description": "1998. HALF-LIFE sends a shock through the game industry with its combination of pounding action and continuous, immersive storytelling. Valve's debut title wins more than 50 game-of-the-year awards on its way to being named \"Best PC Game Ever\" by PC Gamer, and launches a franchise with more than eight million retail units sold worldwide.",
+      "publishers": "Valve",
+      "price": "8.19",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/220/header.jpg?t=1591063154"
+      },
+      {
+      "appid": "620",
+      "name": "Portal 2",
+      "description": "The \"Perpetual Testing Initiative\" has been expanded to allow you to design co-op puzzles for you and your friends!",
+      "publishers": "Valve",
+      "price": "8.19",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/620/header.jpg?t=1610490805"
+      },
+      {
+      "appid": "4000",
+      "name": "Garry's Mod",
+      "description": "Garry's Mod is a physics sandbox. There aren't any predefined aims or goals. We give you the tools and leave you to play.",
+      "publishers": "Valve",
+      "price": "9.99",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/4000/header.jpg?t=1617307042"
+      },
+      {
+      "appid": "6000",
+      "name": "STAR WARS™ Republic Commando™",
+      "description": "You are the leader of an elite squad of Republic Commandos, your mission is to infiltrate, dominate, and ultimately, annihilate the enemy. Your squad will follow your orders and your lead, working together as a team - instinctively, intelligently, instantly. You are their leader. They are your weapon.",
+      "publishers": "LucasArts",
+      "price": "8.19",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/6000/header.jpg?t=1586465290"
+      },
+      {
+      "appid": "6060",
+      "name": "Star Wars: Battlefront 2 (Classic, 2005)",
+      "description": "Join the rise of Darth Vader’s elite 501st Legion of Stormtroopers as you fight through an all new story-based saga where every action you take impacts the battlefront and, ultimately, the fate of the Star Wars galaxy.",
+      "publishers": "LucasArts",
+      "price": "8.19",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/6060/header.jpg?t=1602892465"
+      },
+      {
+      "appid": "22320",
+      "name": "The Elder Scrolls III: Morrowind® Game of the Year Edition",
+      "description": "The Elder Scrolls III: Morrowind® Game of the Year Edition includes Morrowind plus all of the content from the Bloodmoon and Tribunal expansions. The original Mod Construction Set is not included in this package. An epic, open-ended single-player RPG, Morrowind allows you to create and play any kind of character imaginable.",
+      "publishers": "Bethesda Softworks",
+      "price": "14.99",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/22320/header.jpg?t=1569959880"
+      },
+      {
+      "appid": "22380",
+      "name": "Fallout: New Vegas",
+      "description": "Welcome to Vegas. New Vegas. Enjoy your stay!",
+      "publishers": "Bethesda Softworks",
+      "price": "9.99",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/22380/header.jpg?t=1586905021"
+      },
+      {
+      "appid": "680420",
+      "name": "Outriders",
+      "description": "Outriders’ brutal and bloody combat combines frenetic gunplay, violent powers and deep RPG systems to create a true genre hybrid.",
+      "publishers": "Square Enix",
+      "price": "59.99",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/680420/header.jpg?t=1618502764"
+      },
+      {
+      "appid": "1174180",
+      "name": "Red Dead Redemption 2",
+      "description": "Winner of over 175 Game of the Year Awards and recipient of over 250 perfect scores, RDR2 is the epic tale of outlaw Arthur Morgan and the infamous Van der Linde gang, on the run across America at the dawn of the modern age. Also includes access to the shared living world of Red Dead Online.",
+      "publishers": "Rockstar Games",
+      "price": "59.99",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1174180/header.jpg?t=1615608871"
+      }
+  ]
+}

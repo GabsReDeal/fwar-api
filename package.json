@@ -1,0 +1,14 @@
+{
+  "name": "fwar-api",
+  "version": "1.0.0",
+  "description": "An API to retrieve Fwar products",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server db.json"
+  },
+  "author": "Gabriel Gauci",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
